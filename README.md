@@ -1,4 +1,4 @@
-# Pack Bonequinhas Cristãs
+# Coleção Bonequinhas Cristãs
 
 Código-fonte estático da landing page e seus assets.
 
